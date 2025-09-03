@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "506290498510",
+    "project_id": "trial-606a6",
+    "storage_bucket": "trial-606a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506290498510:android:c9a2686a1250d39aa8999f",
+        "android_client_info": {
+          "package_name": "com.example.bauer_bodonii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_x6AwX9X-tFXmXEbJg78h8nPeoYhRE_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506290498510:android:1c84668bca6d3385a8999f",
+        "android_client_info": {
+          "package_name": "com.example.bodoni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_x6AwX9X-tFXmXEbJg78h8nPeoYhRE_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
